@@ -4,7 +4,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/indexIra.html"
+      "destination": "/index.html"
     }
   ]
 }
